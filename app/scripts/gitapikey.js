@@ -1,4 +1,4 @@
 
 module.exports = {
-  "token": '21927ccaa4fdbd1e7a39eec521b88fa38718d1ee'
+  "token": '9d5b8f6aaa6805036a3cecef99ec4f920f1a5665'
 };
